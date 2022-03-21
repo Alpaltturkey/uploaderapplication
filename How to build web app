@@ -1,0 +1,4 @@
+change noEmit -> false
+npm run pack
+cd app 
+npm run build
